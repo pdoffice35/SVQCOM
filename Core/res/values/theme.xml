@@ -75,10 +75,10 @@
 
     <!-- GOOGLE MAPS API -->
     <!-- C:\Android\.android\debug.keystore -->
-    <!-- <string name="google_map_api_key">04CNkh38yW0WU0O8WMsWtv7S_A6AlIAdiOjiyNA</string> -->
+    <string name="google_map_api_key">04CNkh38yW0WU0O8WMsWtv7S_A6AlIAdiOjiyNA</string>
 
 
-    <!-- Neerhaj Maps API keys -->
-    <string name="google_map_api_key">0bajWfh6C_eO86u5X4QHQ0ybLZHBEk5ikuTIU-Q</string>
+    <!-- Other Google Maps API keys -->
+    <string name="google_map_api_key">YOUR_STRING_GOES_HERE</string>
 
 </resources>
