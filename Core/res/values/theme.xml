@@ -79,6 +79,6 @@
 
 
     <!-- Other Google Maps API keys -->
-    <string name="google_map_api_key">YOUR_STRING_GOES_HERE</string>
+    <!-- string name="google_map_api_key">YOUR_STRING_GOES_HERE</string-->
 
 </resources>
